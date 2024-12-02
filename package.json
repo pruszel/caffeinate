@@ -11,35 +11,10 @@
   "license": "MIT",
   "commands": [
     {
-      "name": "caffeinate",
+      "name": "index",
       "title": "Caffeinate",
       "description": "Keeps the computer, screen, or disk awake.",
-      "mode": "no-view"
-    },
-    {
-      "name": "prevent-the-system-from-sleeping",
-      "title": "Prevent the system from sleeping",
-      "description": "",
-      "mode": "no-view"
-    },
-    {
-      "name": "prevent-the-display-from-sleeping",
-      "title": "Prevent the display from sleeping",
-      "description": "",
-      "mode": "no-view"
-    },
-    {
-      "name": "configure-defaults",
-      "title": "Configure defaults",
-      "subtitle": "Change default duration and target",
-      "description": "",
-      "mode": "no-view"
-    },
-    {
-      "name": "prevent-the-disk-from-sleeping",
-      "title": "Prevent the disk from sleeping",
-      "description": "",
-      "mode": "no-view"
+      "mode": "view"
     }
   ],
   "dependencies": {
